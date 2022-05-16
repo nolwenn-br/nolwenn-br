@@ -14,6 +14,7 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 ### My projects 🚧 🔨
 
 — What2Read<br>
+— A [Pokedex](https://github.com/nolwenn-br/pokedex) (how surprising)
 — "A secret project I'm working on, with some stars and stuff"<br>
 — And a lot more…<br>
 
