@@ -5,10 +5,10 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 
 ### I've already coded with some friends like… 💻
 
-— HTML/CSS<br>
+— HTML/CSS (vanilla and bootstrap)<br>
 — JavaScript, PHP<br>
 — MySQL, SQL<br>
-— Symfony, Lumen and custom MVC<br>
+— Symfony, Laravel Lumen and custom MVC<br>
 — Wordpress<br>
 
 ### My projects 🚧 🔨
@@ -21,7 +21,8 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 ### 🌱 🌱 🌱
 
 I'm still learning each day and I consolidate my skills as much as I can.<br>
-Plus, I really want to tame **React** and **Python**, these two are looking at me from afar for too long now… I guess you see what I mean.
+Plus, I really want to tame **React** and **Python**, these two are looking at me from afar for too long now… I guess you see what I mean.<br>
+(*whispers* We're in may 2022 now, and I began to learn Python basics !)
 
 ### Contact 📨
 
