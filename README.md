@@ -14,7 +14,7 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 ### My projects 🚧 🔨
 
 — [What2Read](https://youtu.be/yzJMK9HX1Eo?t=2491) *beware, it's a YouTube link -- check your headphones !*<br>
-— A Pokedex (how surprising)<br>
+— A [Pokedex](https://github.com/nolwenn-br/pokedex) (how surprising)<br>
 — "A secret project I'm working on, with some stars and stuff"<br>
 — And a lot more…<br>
 
