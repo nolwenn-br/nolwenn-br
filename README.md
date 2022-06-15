@@ -14,17 +14,19 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 ### My projects 🚧 🔨
 
 — [What2Read](https://youtu.be/yzJMK9HX1Eo?t=2491) *beware, it's a YouTube link -- check your headphones !* <br>
-🔨🔨(**HTML CSS Vanilla - React JS - PHP - Symfony**) ➡️ I worked as a Product Owner and Back-end Developer (we were a team of 5 :muscle:)<br><br>
+🔨🔨(**HTML - CSS Vanilla - React JS - PHP - Symfony**) ➡️ I worked as a Product Owner and Back-end Developer (we were a team of 5 :muscle:)<br><br>
 — A [Pokedex](https://github.com/nolwenn-br/pokedex-overview) (how surprising)<br>
-🔨🔨(**HTML CSS Bootstrap - JavaScript - PHP - Symfony**)<br><br>
+🔨🔨(**HTML - CSS Bootstrap - JavaScript - PHP - Symfony**)<br><br>
 — "A secret project I'm working on, with some stars and stuff" <br>
-🔨🚧(**HTML CSS Vanilla - JavaScript - PHP - Symfony**)<br><br>
+🔨🚧(**HTML - CSS Vanilla - JavaScript - PHP - Symfony**)<br><br>
 — Showcase website for an independent worker - relocation agency <br>
 🔨🚧 (**PHP - Wordpress**)<br><br>
 — A little quiz from Naruto's lore (...to train my algorithmic)(it's ugly but it works) <br>
 🔨🔨(**HTML - PHP Vanilla**)<br><br>
 — A custom design for a RPG platform on Forumactif <br>
 🔨🚧(**HTML - CSS Vanilla - PHPBB2**)<br><br>
+— My own portfolio <br>
+🔨🚧(**HTML - CSS Vanilla - JavaScript**)<br><br>
 — And a lot more…<br>
 
 ### 🌱 🌱 🌱
