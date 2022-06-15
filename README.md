@@ -21,7 +21,7 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 🔨🚧(**HTML - CSS Vanilla - JavaScript - PHP - Symfony**)<br><br>
 — Showcase website for an independent worker - relocation agency <br>
 🔨🚧 (**PHP - Wordpress**)<br><br>
-— A little quiz from Naruto's lore (...to train my algorithmic)(it's ugly but it works) <br>
+— A little [quiz](https://github.com/nolwenn-br/naruto-quiz) from Naruto's lore (...to train my algorithmic)(it's ugly but it works) <br>
 🔨🔨(**HTML - PHP Vanilla**)<br><br>
 — A custom design for a RPG platform on Forumactif <br>
 🔨🚧(**HTML - CSS Vanilla - PHPBB2**)<br><br>
