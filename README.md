@@ -26,7 +26,7 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 — A custom design for a RPG platform on Forumactif <br>
 🔨🚧(**HTML - CSS Vanilla - PHPBB2**)<br><br>
 — My own portfolio <br>
-🔨🚧(**HTML - CSS Vanilla - JavaScript**)<br><br>
+🔨🚧(**HTML - CSS - SASS - JavaScript**)<br><br>
 — And a lot more…<br>
 
 ### 🌱 🌱 🌱
