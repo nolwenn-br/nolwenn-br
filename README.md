@@ -5,7 +5,7 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 
 ### I've already coded with some friends like… 💻
 
-— HTML/CSS (vanilla and bootstrap)<br>
+— HTML/CSS (vanilla, Scss and Bootstrap)<br>
 — JavaScript, PHP<br>
 — MySQL, SQL<br>
 — Symfony, Laravel Lumen and custom MVC<br>
