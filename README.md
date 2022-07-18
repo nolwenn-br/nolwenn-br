@@ -13,7 +13,7 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 
 ### My projects 🚧 🔨
 
-— [What2Read](https://youtu.be/yzJMK9HX1Eo?t=2491) *beware, it's a YouTube link -- check your headphones !* <br>
+— [What2Read](https://github.com/nolwenn-br/what2read-overview)<br>
 🔨🔨(**HTML - CSS Vanilla - React JS - PHP - Symfony**) ➡️ I worked as a Product Owner and Back-end Developer (we were a team of 5 :muscle:)<br><br>
 — A [Pokedex](https://github.com/nolwenn-br/pokedex-overview) (how surprising)<br>
 🔨🔨(**HTML - CSS Bootstrap - JavaScript - PHP - Symfony**)<br><br>
