@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 
 I'm *Nolwenn*, a fresh web developer from France 🇫🇷 ! But on the web you can call me **Neventer**…<br>
-I'm currently searching for a job and I enjoy Back-End and all datas stuff, but I'm curious about everything and I want to learn a lot of things !
+I'm currently working at Actimage and I enjoy Back-End and all datas stuff, but I'm curious about everything and I want to learn a lot of things !
 
 ### I've already coded with some friends like… 💻
 
@@ -9,7 +9,7 @@ I'm currently searching for a job and I enjoy Back-End and all datas stuff, but 
 — JavaScript, PHP<br>
 — MySQL, SQL<br>
 — Symfony, Laravel Lumen and custom MVC<br>
-— Wordpress<br>
+— Wordpress, Drupal<br>
 
 ### My projects 🚧 🔨
 
