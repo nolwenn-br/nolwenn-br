@@ -8,6 +8,7 @@ I'm currently working at Actimage and I enjoy Back-End and all datas stuff, but 
 — HTML/CSS (vanilla, Scss and Bootstrap)<br>
 — JavaScript, PHP<br>
 — MySQL, SQL<br>
+— NodeJS, VueJS<br>
 — Symfony, Laravel Lumen and custom MVC<br>
 — Wordpress, Drupal<br>
 
